@@ -17187,6 +17187,7 @@ input[type="radio"].sr-only:checked ~ div.s-wallet-table-tbody-tr a {
   --card-title-font-size: 0.875rem;
       --color-primary-bg-light: rgba(233, 151, 2, 0.1);
     --color-primary-bg-lighter: rgba(233, 151, 2, 0.05);
+    --tw-bg-opacity: 1;
 }
 
 body {
@@ -20177,9 +20178,7 @@ input[type="radio"].sr-only:checked
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 300ms;
     transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1);
-    --tw-content: "";
-    content: "";
-    content: var(--tw-content);
+    --tw-content: "ali";
   }
   input[type="radio"].sr-only div.store-footer .collapse-trigger:after {
     transition: all 0.3s;
