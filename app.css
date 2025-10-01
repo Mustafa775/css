@@ -33331,7 +33331,7 @@ cubic-bezier(0.4, 0, 0.2, 1);
   padding-right: 12px;
   padding-left: 2.5rem;
   padding-top: 1px;
-  border-color: rgba(229, 231, 235,1));
+  border-color: rgba(229, 231, 235,1);
       font-size: 0.875rem;
   line-height: 1.25rem;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
